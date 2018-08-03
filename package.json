@@ -1,0 +1,15 @@
+{
+  "name": "ArrayRotation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_rotation.js",
+  "scripts": {
+    "test": "mocha array_rotation_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
